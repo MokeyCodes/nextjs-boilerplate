@@ -23,7 +23,6 @@ export default function Home() {
                         <li>Soccer</li>
                         <li>Volleyball</li>
                         <li>Roblox</li>
-                        <li>Anime</li>
                         <li>CS 🧐🤓</li>
                     </ul>
                 </div>
